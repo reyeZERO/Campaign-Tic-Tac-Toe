@@ -2,7 +2,6 @@
 g++ main.cpp TicTacToe.cpp Character.cpp GameEngine.cpp FileManager.cpp -o rpg_game
 2. Execution:
 ./rpg_game
-(On Windows, type rpg_game.exe)
 3. Running Tests:
 g++ test.cpp TicTacToe.cpp Character.cpp FileManager.cpp -o run_tests
 ./run_tests
